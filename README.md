@@ -22,5 +22,9 @@ I have added a basic blue favicon for the application.
 
 The application is open sourced with MIT License.
 
+MIT License
+
+Copyright (c) 2017 Nirmala Rao Dhanawada
+
 Please read the License file for more details.
 
