@@ -20,11 +20,9 @@ Right click on the blue favicon to open the list of options and explore each to 
 
 I have added a basic blue favicon for the application.
 
-The application is open sourced with MIT License.
-
 # MIT License
 
-Copyright (c) 2017 Nirmala Rao Dhanawada
+The application is open sourced with MIT License.
 
 Please read the License file for more details.
 
